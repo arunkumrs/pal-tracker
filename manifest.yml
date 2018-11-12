@@ -4,4 +4,4 @@ applications:
   routes:
   - route: pal-tracker-arun-travis.cfapps.io
   env:
-    WELCOME_MESSAGE: Hello from Cloud Foundry
+    WELCOME_MESSAGE: Hello from Cloud Foundry!
